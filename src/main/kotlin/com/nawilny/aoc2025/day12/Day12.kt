@@ -1,0 +1,8 @@
+package com.nawilny.aoc2025.day12
+
+import com.nawilny.aoc2025.commons.Input
+import com.nawilny.aoc2025.commons.Input.println
+
+fun main() {
+    Input.readFileLines("day12", "example.txt").forEach { it.println() }
+}
